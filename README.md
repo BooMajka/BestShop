@@ -1,7 +1,7 @@
 # BestShop
 Simple layout for e-commerce
 
-## Used programs:
+## Technologies:
 
 - Gulp
 - CSS
